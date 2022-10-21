@@ -1,0 +1,18 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Teste NPM",
+  "main": "BotTwitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node BotTwitter.js"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "Francisco Targa",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
